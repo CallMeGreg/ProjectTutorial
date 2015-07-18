@@ -1,0 +1,7 @@
+-classpath '/Users/bryantson/ProgramExercise/GradleExercise/FirstGradle/build/classes/main:/Users/bryantson/ProgramExercise/GradleExercise/FirstGradle/build/resources/main'
+-d '/Users/bryantson/ProgramExercise/GradleExercise/FirstGradle/build/docs/javadoc'
+-doctitle 'FirstGradle API'
+-quiet 
+-windowtitle 'FirstGradle API'
+'/Users/bryantson/ProgramExercise/GradleExercise/FirstGradle/src/main/java/hello/Greeter.java'
+'/Users/bryantson/ProgramExercise/GradleExercise/FirstGradle/src/main/java/hello/HelloWorld.java'
