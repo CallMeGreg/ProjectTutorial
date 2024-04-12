@@ -4,7 +4,7 @@ apply plugin: "application"
 mainClassName = "hello.HelloWorld"
 
 plugins {
-	id 'spring-boot-starter-parent' version '3.2.3'
+	id 'org.springframework.boot' version '3.2.3'
 }
 
 repositories {
